@@ -1,8 +1,8 @@
 ## Laboratory Assignment #3: Program Style, Compilation, and Math with Integers  
 
 **Points**: 100 pts
-#### Name:
-#### PID:
+#### Name: Beckham Hounshell
+#### PID: P101184495
 *Purpose: gain some familiarity with program style, fixing compilation errors in a program and arithmetic operations.*
 
 ---
